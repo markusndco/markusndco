@@ -74,7 +74,7 @@ Real‑world case studies with:
 ## 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/aryansharma250)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/markusndco)  
-[![Instagram](https://img.shields.io/badge/GitHub-000?logo=github)](https://instagram.com/markusndco)  
+[![Instagram](https://img.shields.io/badge/Instagram-000?logo=Instagram)](https://instagram.com/markusndco)  
 ---
 
 > “Data without context is noise. My mission is to turn that noise into actionable intelligence.”
