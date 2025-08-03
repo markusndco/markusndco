@@ -21,29 +21,46 @@ I’m passionate about **turning data into decisions** — blending **causal inf
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Featured Projects
 
-### [📊 Advanced Statistical Modeling](https://github.com/markusndco/Advance-Statistical-Modeling)  
-Advanced modeling projects applying:  
-- OLS Regression, GLMs, Poisson Distribution, Survival Analysis  
-- Multilevel Models, Classification Algorithms  
-- Business use cases: sales forecasting, churn prediction, credit scoring  
+Here are my pinned repositories, each showcasing domain-specific projects:
 
-### [📈 Data Science Projects](https://github.com/markusndco/Data-Science_projects)  
-Real‑world case studies with:  
-- Logistic Regression, Difference‑in‑Differences, Regression Discontinuity  
-- Causal Analysis, Time‑Series Forecasting  
-- Applications in healthcare, economics, public policy  
+### 📊 [Advanced Statistical Modeling](https://github.com/markusndco/Advance-Statistical-Modeling)
+Advanced modeling projects applying:
+- OLS Regression, Generalized Linear Models (GLMs), Poisson Distribution, Survival Analysis
+- Multilevel Models, Classification Algorithms
+- Business use cases: sales forecasting, churn prediction, credit scoring
 
-### 🧠 **Customer Segmentation with LLM‑Augmented Clustering**  
-- Hybrid clustering with **K‑Prototypes + LLM embeddings** (GloVe)  
-- Outlier detection (ECOD), PCA, t‑SNE for dimensionality reduction  
-- Delivered actionable marketing segments  
+### 📈 [Data Science Projects](https://github.com/markusndco/Data-Science_projects)
+Real‑world case studies with:
+- Logistic Regression, Difference‑in‑Differences, Regression Discontinuity
+- Causal Analysis, Time‑Series Forecasting
+- Applications in healthcare, economics, public policy
 
-### 🔍 **Causal Impact of Free Shipping**  
-- Applied **Difference‑in‑Differences** to measure revenue lift in e‑commerce  
-- Robustness checks: placebo tests, alternative controls  
-- Found sustained **~76% revenue increase** post‑intervention  
+### 🧠 Customer Segmentation with LLM‑Augmented Clustering *(in Data Science Projects repo)*
+- Hybrid clustering with **K‑Prototypes + LLM embeddings** (GloVe)
+- Outlier detection (ECOD), PCA, t‑SNE for dimensionality reduction
+- Delivered actionable marketing segments
+
+### 🔍 Causal Impact of Free Shipping *(in Data Science Projects repo)*
+- Applied **Difference‑in‑Differences** to measure revenue lift in e‑commerce
+- Robustness checks: placebo tests, alternative controls
+- Found sustained **~76% revenue increase** post‑intervention
+
+### 🖥 [Analysis‑SAS](https://github.com/markusndco/Analysis-SAS)
+- Statistical modeling & regression analysis in SAS
+- OLS regression, logistic regression, and predictive modeling
+- Business case studies focusing on applied analytics
+
+### 📊 [Data Analysis Projects](https://github.com/markusndco/Data-Analysis-Projects)
+- Excel-based modeling projects: KPI dashboards, descriptive analytics
+- SQL-based analytics projects: IMDB movie ratings, business insights
+- Data cleaning, visualization, and trend analysis
+
+### 👁 [Computer Vision](https://github.com/markusndco/Computer-Vision)
+- Currently building a **bone fracture detection system** using YOLOv8
+- Dataset preprocessing, augmentation, and annotation
+- Model training, evaluation, and deployment planning
 
 ---
 
