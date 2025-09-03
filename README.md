@@ -2,7 +2,7 @@
 
 **Data Scientist | AI & Business Analytics | ML & NLP Enthusiast**  
 
-I’m a Bentonville‑based Data Scientist with **5+ years of experience** designing **end‑to‑end ML systems**, statistical modeling workflows, and scalable AI solutions across finance, risk, and operations.  
+I’m a Bentonville‑based Data Scientist with **7+ years of experience** designing **end‑to‑end ML systems**, statistical modeling workflows, and scalable AI solutions across finance, risk, and operations.  
 I’m passionate about **turning data into decisions** — blending **causal inference** with **modern AI** to deliver measurable business impact.  
 
 ---
