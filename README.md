@@ -9,7 +9,7 @@ I’m passionate about **turning data into decisions** — blending **causal inf
 
 ## 🚀 Tech I Work With  
 
-**Languages:** Python, SQL, R, Java, SAS, JavaScript, Scala 
+**Languages:** Python, SQL, R, Java, SAS, JavaScript, Scala
 **Machine Learning & Deep Learning:** scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM, OpenCV  
 **Tree-Based Modeling:** Regression Trees, Pruned Trees, Bagging, Random Forest, BART  
 **Data Science & AI:** NLP, LLMs, Causal Inference (DiD, RDD, PSM), Time-Series Forecasting, Survival Analysis  
