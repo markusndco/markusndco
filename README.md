@@ -67,7 +67,6 @@ Advanced modeling projects applying:
 - Tree-based modeling using **Regression Trees**, **Bagging**, **Random Forest**, and **BART**  
 - Compared model performance to identify the strongest drivers of retail Sales  
 - BART outperformed all models with the lowest MSE, capturing nonlinear interactions effectively  
-📎 *Repo:* https://github.com/markusndco/Advance-Statistical-Modeling/tree/main/carseats-bart-vs-rf  
 
 ---
 
