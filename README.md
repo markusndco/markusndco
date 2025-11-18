@@ -22,9 +22,9 @@ I’m passionate about **turning data into decisions** — blending **causal inf
 
 ---
 
-## 🕹️ Commit Game
+## 🕹️ Commit Snake
 
-> A little game that runs through my GitHub contribution grid – Pac-Man vibes for my commits 👾
+> A little game that runs through my GitHub contribution grid – Snake vibes for my commits 👾
 
 ![GitHub Contribution Game](https://github.com/markusndco/markusndco/blob/output/github-contribution-grid-snake.svg)
 
