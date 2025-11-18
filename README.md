@@ -22,6 +22,14 @@ I’m passionate about **turning data into decisions** — blending **causal inf
 
 ---
 
+## 🕹️ Commit Game
+
+> A little game that runs through my GitHub contribution grid – Pac-Man vibes for my commits 👾
+
+![GitHub Contribution Game](https://github.com/markusndco/markusndco/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 📂 Featured Projects
 
 Here are my pinned repositories, each showcasing domain-specific projects:
