@@ -39,14 +39,27 @@ Advanced modeling projects applying:
 - Business use cases: sales forecasting, churn prediction, credit scoring,  
   **retail analytics with model comparison (BART vs Random Forest)**  
 
-**Highlighted Projects:**  
-- **BigMart Multilevel Regression** — Hierarchical modeling to analyze sales variance across retail stores  
-- **Lung Cancer Survival Analysis** — Cox-PH model for medical survival outcomes  
-- **Credit Card GLM-Poisson Modeling** — Transaction count modeling for financial risk  
-- **NEW: Carseats Sales Prediction (BART vs Random Forest)**  
-  Comprehensive tree-based modeling using Regression Trees, Bagging, Random Forest, and BART  
-  to identify the strongest drivers of retail Sales.  
-  📌 *Repo:* https://github.com/markusndco/Advance-Statistical-Modeling/tree/main/carseats-bart-vs-rf  
+---
+
+### 📌 BigMart Multilevel Regression
+- Hierarchical modeling to analyze sales variation across retail stores  
+- Used mixed-effects models to quantify store-level and city-level effects  
+- Provided insights into outlet performance and location-based sales patterns  
+
+---
+
+### 📌 Lung Cancer Survival Analysis
+- Applied **Cox Proportional Hazards (Cox-PH)** model to medical survival data  
+- Identified key risk factors influencing patient survival duration  
+- Included diagnostics, survival curves, and hazard interpretation  
+
+---
+
+### 📌 Carseats Sales Prediction (BART vs Random Forest)
+- Tree-based modeling using **Regression Trees**, **Bagging**, **Random Forest**, and **BART**  
+- Compared model performance to identify the strongest drivers of retail Sales  
+- BART outperformed all models with the lowest MSE, capturing nonlinear interactions effectively  
+📎 *Repo:* https://github.com/markusndco/Advance-Statistical-Modeling/tree/main/carseats-bart-vs-rf  
 
 ---
 
@@ -57,10 +70,6 @@ Real-world case studies with:
 - Logistic Regression, Difference-in-Differences (DiD), Regression Discontinuity (RDD)  
 - Causal Analysis, Time-Series Forecasting  
 - Applications in healthcare, economics, public policy  
-
-**Highlighted Examples:**  
-- **Causal Impact of Free Shipping** — Used DiD to detect ~76% revenue lift post-intervention  
-- **LLM-Enhanced Clustering** — Hybrid segmentation using K-Prototypes + LLM embeddings  
 
 ---
 
