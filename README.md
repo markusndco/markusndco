@@ -9,10 +9,10 @@ I’m passionate about **turning data into decisions** — blending **causal inf
 
 ## 🚀 Tech I Work With  
 
-**Languages:** Python, SQL, R, Java, SAS, JavaScript, Scala
-**Machine Learning & Deep Learning:** scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM, OpenCV  
+**Languages:** Python, SQL, R, Java, SAS, JavaScript, Scala 
 **Tree-Based Modeling:** Regression Trees, Pruned Trees, Bagging, Random Forest, BART  
 **Data Science & AI:** NLP, LLMs, Causal Inference (DiD, RDD, PSM), Time-Series Forecasting, Survival Analysis  
+**Machine Learning & Deep Learning:** scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM, OpenCV 
 **GenAI & LLMs:** LangChain, LangGraph, Hugging Face, OpenAI SDK, FAISS, Pinecone, RAG Pipelines  
 **Data Engineering:** Apache Spark, Kafka, AWS Glue, ETL Pipelines, Docker, Kubernetes  
 **Cloud & DevOps:** AWS (S3, EC2, Lambda, Redshift), Azure, GCP, GitHub Actions, Terraform  
