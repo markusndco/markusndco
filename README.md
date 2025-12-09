@@ -38,59 +38,12 @@ Here are my pinned repositories, each showcasing domain-specific projects:
 
 ### 📊 [Advanced Statistical Modeling](https://github.com/markusndco/Advance-Statistical-Modeling)
 
-Advanced modeling projects applying:
-
 - OLS Regression, Generalized Linear Models (GLMs), Poisson Distribution, Survival Analysis  
 - Multilevel (Hierarchical) Models, Classification Algorithms  
 - **Tree-Based Methods:** Regression Trees, Pruned Trees, Bagging, Random Forest,  
   **Bayesian Additive Regression Trees (BART)**  
 - Business use cases: sales forecasting, churn prediction, credit scoring,  
   **retail analytics with model comparison (BART vs Random Forest)**  
-
----
-
-### 📌 BigMart Multilevel Regression
-- Hierarchical modeling to analyze sales variation across retail stores  
-- Used mixed-effects models to quantify store-level and city-level effects  
-- Provided insights into outlet performance and location-based sales patterns  
-
----
-
-### 📌 Lung Cancer Survival Analysis
-- Applied **Cox Proportional Hazards (Cox-PH)** model to medical survival data  
-- Identified key risk factors influencing patient survival duration  
-- Included diagnostics, survival curves, and hazard interpretation  
-
----
-
-### 📌 Carseats Sales Prediction (BART vs Random Forest)
-- Tree-based modeling using **Regression Trees**, **Bagging**, **Random Forest**, and **BART**  
-- Compared model performance to identify the strongest drivers of retail Sales  
-- BART outperformed all models with the lowest MSE, capturing nonlinear interactions effectively  
-
----
-
-### 📈 [Data Science Projects](https://github.com/markusndco/Data-Science_projects)
-
-Real-world case studies with:
-
-- Logistic Regression, Difference-in-Differences (DiD), Regression Discontinuity (RDD)  
-- Causal Analysis, Time-Series Forecasting  
-- Applications in healthcare, economics, public policy  
-
----
-
-### 🧠 Customer Segmentation with LLM-Augmented Clustering *(in Data Science Projects repo)*  
-- Hybrid clustering with **K-Prototypes + GloVe embeddings**  
-- Outlier detection (ECOD), PCA, t-SNE  
-- Delivered highly actionable marketing segments  
-
----
-
-### 🔍 Causal Impact of Free Shipping *(in Data Science Projects repo)*  
-- Applied **Difference-in-Differences** to measure revenue uplift  
-- Conducted placebo tests & robustness checks  
-- Found sustained **~76% increase** in post-intervention revenue  
 
 ---
 
