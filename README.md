@@ -14,7 +14,7 @@ I’m passionate about **turning data into decisions** — blending **causal inf
 **Data Science & AI:** NLP, LLMs, Causal Inference (DiD, RDD, PSM), Time-Series Forecasting, Survival Analysis  
 **Machine Learning & Deep Learning:** scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM, OpenCV 
 **GenAI & LLMs:** LangChain, LangGraph, Hugging Face, OpenAI SDK, FAISS, Pinecone, RAG Pipelines  
-**Data Engineering:** Apache Spark, Kafka, AWS Glue, ETL Pipelines, Docker, Kubernetes, Snowflake  
+**Data Engineering:** Apache Spark, Kafka, AWS Glue, ETL Pipelines, Docker, Kubernetes, Snowflake, dbt  
 **Cloud & DevOps:** AWS (S3, EC2, Lambda, Redshift), Azure, GCP, GitHub Actions, Terraform  
 **Visualization:** Tableau, Power BI, Matplotlib, Seaborn, Sigma       
 **Databases:** MySQL, PostgreSQL, MongoDB, DynamoDB, Dbeaver 
